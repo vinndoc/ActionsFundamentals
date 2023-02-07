@@ -2,6 +2,7 @@
 
 # First Actions test
 # [skip ci]
+# Modify and create pull request (trigger: pull_request)
 
 Repo for the `GitHub Actions Fundamentals` training.
 
