@@ -1,6 +1,7 @@
 # GitHub Actions Fundamentals
 
 # First Actions test
+# [skip ci]
 
 Repo for the `GitHub Actions Fundamentals` training.
 
